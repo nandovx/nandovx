@@ -5,9 +5,9 @@
 <div align="center">
 
 ### Linguagens de Programação
-| <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/python.png" width="48"> |
-|:---:|:---:|:---:|:---:|
-| Java | C | C++ | Python |
+| <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/python.png" width="48"> | <img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" width="48"> |
+|:---:|:---:|:---:|:---:|:---:|
+| Java | C | C++ | Python | C# |
 
 ### Bancos de Dados
 | <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="48"> |

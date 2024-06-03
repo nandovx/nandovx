@@ -20,7 +20,7 @@
 | Docker |
 
 ### Tests
-| <img src="https://img.icons8.com/ios-filled/50/000000/java-eclipse.png" width="48"> | <img src="https://img.icons8.com/windows/48/000000/unit-test.png" width="48"> |
+| <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" width="48"> | <img src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" width="48"> |
 |:---:|:---:|
 | JUnit | xUnit |
 
@@ -30,7 +30,7 @@
 | Figma |
 
 ### Game Development
-| <img src="https://img.icons8.com/windows/48/000000/godot-engine.png" width="48"> |
+| <img src="https://static-00.iconduck.com/assets.00/godot-icon-512x484-rwmcfh0l.png" width="48"> |
 |:---:|
 | Godot |
 
@@ -45,7 +45,7 @@
 | Git |
 
 ### FrameWorks
-| <img src="https://icons8.com/icon/bzf0DqjXFHIW/react" width="48"> | <img src="https://icons8.com/icon/rY6agKizO9eb/vue-js" width="48"> | <img src="https://icons8.com/icon/71257/angularjs" width="48"> |
+| <img src="https://raw.githubusercontent.com/wiki/facebook/react/react-logo-1000-transparent.png" width="48"> | <img src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4" width="48"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROSVsyTE3Rq2DeKnZ9DvrUCTjEv6k0NTDNvw&s" width="48"> |
 |:---:|:---:|:---:|
 | React | Vue | Angular |
 

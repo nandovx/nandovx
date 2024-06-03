@@ -5,7 +5,7 @@
 <div align="center">
 
 ### Programming Languages
-| <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/python.png" width="48"> | <img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" width="48"> | <img src="https://icons8.com/icon/108784/javascript" width="48"> | <img src="https://icons8.com/icon/13460/php" width="48"> |
+| <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/python.png" width="48"> | <img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" width="48"> | <img src="[https://icons8.com/icon/108784/javascript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)" width="48"> | <img src="https://icons8.com/icon/13460/php" width="48"> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Java | C | C++ | Python | C# | JavaScript | Php |
 

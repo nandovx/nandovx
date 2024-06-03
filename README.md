@@ -1,4 +1,4 @@
-![image](https://github.com/nandovx/nandovx/assets/20803647/ed05adc6-13b7-4110-bb04-d1ae95bbe892)<h1>Wellcome to my GitHub!</h1>
+<h1>Wellcome to my GitHub!</h1>
 <p>I'm a technology enthusiast developer with experience in some programming languages and tools. Below are some of it:</p>
 </br>
 

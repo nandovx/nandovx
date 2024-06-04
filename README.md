@@ -45,8 +45,8 @@
 | Git |
 
 ### FrameWorks
-| <img src="https://raw.githubusercontent.com/wiki/facebook/react/react-logo-1000-transparent.png" width="48"> | <img src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4" width="48"> |
-|:---:|:---:|
-| React | Vue |
+| <img src="https://raw.githubusercontent.com/wiki/facebook/react/react-logo-1000-transparent.png" width="48"> | <img src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4" width="48"> | <img src="https://styles.redditmedia.com/t5_3oqlz/styles/communityIcon_ntlnsixcvqs11.png" width="48">
+|:---:|:---:|:---:|
+| React | Vue | Avalonia |
 
 </div>

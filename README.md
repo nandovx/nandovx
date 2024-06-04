@@ -45,8 +45,8 @@
 | Git |
 
 ### FrameWorks
-| <img src="https://raw.githubusercontent.com/wiki/facebook/react/react-logo-1000-transparent.png" width="48"> | <img src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4" width="48"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROSVsyTE3Rq2DeKnZ9DvrUCTjEv6k0NTDNvw&s" width="48"> |
-|:---:|:---:|:---:|
-| React | Vue | Angular |
+| <img src="https://raw.githubusercontent.com/wiki/facebook/react/react-logo-1000-transparent.png" width="48"> | <img src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4" width="48"> |
+|:---:|:---:|
+| React | Vue |
 
 </div>
